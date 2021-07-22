@@ -6,4 +6,22 @@
 
 #### It was our Collage mini project  
 
-##### Ajshbdkja
+##### Home Page 
+
+
+##### Faculty information Section
+
+
+##### Faculty registration form
+
+
+##### Faculty Publication detail section
+
+
+##### Faculty Publication form
+
+
+##### About us section
+
+
+##### Footer / Contact us section
